@@ -6,7 +6,7 @@ SpaceX is a revolutionary company who has disrupt the space industry by offering
 
 # Table of Contents
 1. [Collecting the Data through API](https://github.com/GianlucaBarbiere/SpaceX/blob/main/SpaceX%20Data%20Collection%20Api.ipynb)
-2. [Collecting the Data through Web Scraping]()
+2. [Collecting the Data through Web Scraping](https://github.com/GianlucaBarbiere/SpaceX/blob/main/SpaceX%20Webscraping.ipynb)
 3. [Data Wrangling]()
 4. [Exploratory Data Analysis using SQL]()
 5. [Exploratory Data Analysis using Matplotlib]()
