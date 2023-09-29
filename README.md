@@ -12,4 +12,4 @@ SpaceX is a revolutionary company who has disrupt the space industry by offering
 5. [Exploratory Data Analysis using Matplotlib](https://github.com/GianlucaBarbiere/SpaceX/blob/main/SpaceX%20Exploratory%20Data%20Analisys%20Pandas_Matplotlib.ipynb)
 6. [Interactive Visualization with Folium](https://github.com/GianlucaBarbiere/SpaceX/blob/main/SpaceX%20Interactive%20Visual%20Analytics%20Folium.ipynb)
 7. [Interactive Visualization with Dashbiards](https://github.com/GianlucaBarbiere/SpaceX/blob/main/SpaceX%20Interactive%20Visual%20Analytics%20and%20Dashboards%20Plotly%20Dash.ipynb)
-8. [Machine Learning Prediction - LR, KNN, SVM, DTREE]()
+8. [Machine Learning Prediction - LR, KNN, SVM, DTREE](https://github.com/GianlucaBarbiere/SpaceX/blob/main/SpaceX%20Machine%20Learning%20Prediction%20-%20LR%2C%20SVM%2C%20DTREE%2C%20KNN.ipynb)
